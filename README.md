@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋 I'm Vyshnavi!
 
-<!--
-**Vyshnavi988/Vyshnavi988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 A passionate B.Tech student in Artificial Intelligence & Data Science, I'm someone who finds joy in building, solving, and constantly learning.
 
-Here are some ideas to get you started:
+💻 My journey started with solving LeetCode just for placements — but somewhere along the way, I fell in love with the process of problem-solving and self-growth. Every bug I fix and every project I complete reminds me of why I chose tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **What I do:**
+- 🔧 Build intelligent systems using Python, Flask, and Machine Learning
+- 🌐 Design beautiful websites with HTML, CSS, JS, and React
+- ☁️ Exploring Cloud (AWS), NLP, and AI-powered solutions
+- 🧠 Currently working on an AI model for Power Load Forecasting & Optimization in Delhi (SIH Project)
+
+🎯 **Ongoing Goals:**
+- Cracking top MNCs 💼
+- Learning new tech stacks ⚙️
+- Collaborating with communities 💬
+
+📫 **Let’s Connect!**
+- 💼 [LinkedIn](https://www.linkedin.com/in/vyshnavisrigiri/)
+- 🌐 [GitHub](https://github.com/Vyshnavi988)
+
+🔭 *Always learning, always building.*
