@@ -1,59 +1,61 @@
-<h1 align="center">Hey there! I'm Vyshnavi 👋</h1>
-<p align="center">Final-year AI & Data Science undergrad | Tech Explorer | Project Builder | Learner for Life 🚀</p>
-
----
-
-## 🌱 My Journey in Tech
-
-I still remember when I opened my first HTML file and saw “Hello World” on a browser — that tiny moment felt magical. Since then, I’ve been curious about how technology solves real-world problems and how I could be a part of that.
-
-From building simple front-end pages to developing intelligent systems that forecast power demand, my journey has been all about **learning through doing**.
-
----
-
-## 🛠️ What I'm Building (and Why)
-
-### 🔋 **AI-Powered Electricity Demand Forecasting**
-During a Smart India Hackathon, we explored how Delhi’s energy grid could benefit from predictive AI. I trained a stacked LSTM model using weather and solar data to predict 96-slot daily energy load. We turned this into an interactive dashboard using Flask APIs.
-
-> 🔍 This project taught me how data, real-world needs, and machine learning come together.
-
----
-
-### 🧠 **BlogiQ – Personalized Blog Recommender**
-As part of an internship at IIT Delhi (BlackBucks), I developed an intelligent blog platform using TF-IDF and cosine similarity. But what made it special was the voice-enabled UI, smart summaries, and dark mode toggle that made the reading experience fun and personal.
-
-> ✨ Here, I learned the power of user experience and the magic of NLP.
-
----
-
-### ☁️ **AWS-FoodMuch – Cloud-Based Food Platform**
-In my early projects, I wanted to build something that could actually run on the internet. That’s how FoodMuch was born — a responsive food ordering app hosted completely on AWS (EC2, S3, CloudFront, Lambda). It automated backend processes and gave me hands-on experience with cloud architecture.
-
-> 🌍 This project made me realize how real deployment feels way more fulfilling than local testing!
-
----
-
-## 🔧 Tech I’ve Been Exploring Along the Way
+<h1 align="center">Hi, I'm Vyshnavi Srigiri 👋</h1>
+<h3 align="center">Crafting intelligent solutions with code, creativity, and curiosity 💡</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,flask,mysql,php,aws,git,vscode,linux" />
+  <img src="https://komarev.com/ghpvc/?username=Vyshnavi988&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
-From languages to libraries, I’ve tried to get a taste of everything — just enough to figure out what I enjoy and where I can grow next.
+---
+
+## ✨ About Me
+
+I'm a final-year B.Tech student in Artificial Intelligence & Data Science, deeply passionate about solving meaningful problems through code.
+
+Over the past few years, I've evolved from building simple front-end pages to deploying cloud-based applications and AI-driven systems — every project I work on is a step forward in turning ideas into impact.
 
 ---
 
-## 📚 Right Now, I’m…
+## 🚀 My Recent Work
 
-- Diving deeper into **cloud and ML deployment**  
-- Designing more **student-friendly web platforms**  
-- Writing blogs to **simplify tech for learners like me**  
-- Preparing for interviews with **curated DSA topics and projects**
+### 🔋 AI-Based Electricity Demand Forecasting  
+A stacked LSTM model that predicts 96 energy load slots daily, wrapped in a Flask dashboard with real-time API integration and smart tuning.  
+**→ Built for real-world grid efficiency and precision forecasting**  
+🧰 *Python · Keras · Pandas · Flask · Scikit-learn*
 
 ---
 
-## 🤝 Let’s Connect & Collaborate!
+### 🧠 BlogiQ – Smart Blog Recommender  
+As a Machine Learning Intern at **IITD Blackbucks**, I developed a blog recommendation system using TF-IDF and cosine similarity.  
+With voice input, theme toggle, real-time search, and bookmarking — this project focused on **user personalization and experience**.  
+🧰 *Streamlit · Python · NLP · UX Design*
+
+---
+
+### ☁️ AWS FoodMuch – Cloud-Based Food Platform  
+A responsive food ordering app deployed using AWS EC2, S3, CloudFront, and Lambda.  
+It automated backend workflows and improved operational efficiency.  
+🧰 *HTML · CSS · JavaScript · PHP · AWS*
+
+---
+
+## 🛠️ Technologies I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,php,flask,mysql,aws,git,vscode,linux" />
+</p>
+
+---
+
+## 📌 What I'm Exploring
+
+- Building intelligent systems that solve real-world challenges  
+- Designing seamless web experiences with full-stack tools  
+- Scaling apps with cloud-native tools like AWS & Docker  
+- Sharing my journey through writing and collaboration
+
+---
+
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="mailto:vyshnavisrigiri@gmail.com">
@@ -70,5 +72,5 @@ From languages to libraries, I’ve tried to get a taste of everything — just 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Learning+by+doing+💡;Building+with+purpose+🚀;Growing+together+🌱" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Engineer+by+logic;+Builder+by+passion+🚀;Here+to+create+with+code+💡" />
 </p>
